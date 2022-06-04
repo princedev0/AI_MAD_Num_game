@@ -2,7 +2,7 @@
 <ul>
 <li>This Project is a partially built project on Simple Arithmetic Game for <i>single player</i>.</li>
 
-<li>Most of the coding part is already done, however, some clues are left in between (comments //) where students can write their codes.</li>
+<li>Most of the coding part is already done, however, some clues are left in THE between (comments //) where students can write their codes.</li>
 
 <li><b>matchCounter</b> will keep track of how many matches are played. A match is akin to answer one question.</li>
 
